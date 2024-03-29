@@ -1,0 +1,10 @@
+Differences between window, screen, and document:
+
+Window
+The window is the first thing that loads into the browser. It is the execution context and global object for that context's JavaScript.
+
+Screen
+The screen is the physical display's full screen. It contains properties about the user's display.
+
+Document
+The document is the main object of the potentially visible document object model (DOM). It is the HTML, aspx, php, or other document that is loaded into the browser.
